@@ -1,1 +1,1 @@
-worker: java -jar target/dependency/webapp-runner.jar target/eventlist-0.0.1-SNAPSHOT.war 
+web: java -jar target/dependency/webapp-runner.jar target/eventlist-0.0.1-SNAPSHOT.war 
