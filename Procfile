@@ -1,1 +1,1 @@
-web: java -jar target/eventlist-0.0.1-SNAPSHOT.war
+web: java -jar eventlist-0.0.1-SNAPSHOT.war
