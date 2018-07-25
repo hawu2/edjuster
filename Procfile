@@ -1,1 +1,1 @@
-web: java -jar target/dependency/webapp-runner.jar target/eventlist-0.0.1-SNAPSHOT.war --port $PORT
+web: java -jar target/dependency/webapp-runner.jar --port 8080 target/eventlist-0.0.1-SNAPSHOT.war 
