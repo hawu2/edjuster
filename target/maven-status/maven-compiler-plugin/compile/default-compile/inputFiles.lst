@@ -1,0 +1,12 @@
+/Users/hawu2/git/edjuster/src/main/java/eventlist/controller/EventsController.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/listener/CreateDatabaseListener.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/model/GetDataTablesRequestDTO.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/controller/UploadController.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/data/EventsDbManager.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/etl/JsonFileLoader.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/etl/JsonStreamLoader.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/data/EventsDAO.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/model/EventPeriodType.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/etl/EventRecord.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/model/Event.java
+/Users/hawu2/git/edjuster/src/main/java/eventlist/model/GetDataTablesResponseDTO.java
